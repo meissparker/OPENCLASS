@@ -14,6 +14,6 @@ feeling = input("How are you feeling?")
 if feeling == "happy":
     print("That's great to hear!")
 
-if feeling == "sad": 
+elif feeling == "sad": 
     print("I hope your day gets better!")
 
