@@ -7,4 +7,13 @@ if weather == "sunny":
 else: 
     print("Take an umbrella!")
 
-    print(weather)
+# Task 2
+
+feeling = input("How are you feeling?")
+
+if feeling == "happy":
+    print("That's great to hear!")
+
+if feeling == "sad": 
+    print("I hope your day gets better!")
+
